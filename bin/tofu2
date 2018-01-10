@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+singularity run /opt/rit/app/tofu2/v17/tofu2.simg $@
